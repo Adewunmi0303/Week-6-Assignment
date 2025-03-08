@@ -1,0 +1,20 @@
+{
+  "name": "js--basics",
+  "version": "1.0.0",
+  "description": "JavaScript",
+  "main": "index.js",
+  "scripts": {"start": "node index.js",
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adewunmi0303/my-first-JavaScript-assignment.git"
+  },
+  "author": "Adewunmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adewunmi0303/my-first-JavaScript-assignment/issues"
+  },
+  "homepage": "https://github.com/Adewunmi0303/my-first-JavaScript-assignment#readme"
+}
